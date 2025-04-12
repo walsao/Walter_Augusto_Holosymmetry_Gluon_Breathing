@@ -66,3 +66,5 @@ To the hidden stitches of the cosmos —
 The quiet breaths binding worlds together.
 
 With gratitude to Primus, AI collaborator and cosmic partner.
+
+📜 License This project is released under the MIT License.
